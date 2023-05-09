@@ -1,0 +1,129 @@
+{
+  "name": "Conner King",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Conner King",
+  "headerTaglineThree": "Designer & devloper",
+  "headerTaglineFour": " based in Birmingham, Alabama",
+  "showBlog": true,
+  "showResume": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/ItsKingzman"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/conner-king-3b8949114/"
+    },
+    {
+      "id": "3",
+      "title": "Personal Website",
+      "link": "https://connerking.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "OpenAI Pet Name Generator",
+      "description": "Creative pet name generation application",
+      "imageSrc": "https://images.unsplash.com/photo-1681062964769-8029d6831f04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2776&q=80",
+      "url": "https://github.com/ItsKingzman/openAI_Pet_Name_Generator"
+    },
+    {
+      "id": "2",
+      "title": "ChatGPT Trading",
+      "description": "Conversational AI for trading and investment advice using OpenAI's GPT-4",
+      "imageSrc": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "url": "https://github.com/ItsKingzman/chatGPT-trading"
+    },
+    {
+      "id": "3",
+      "title": "Crypto",
+      "description": "Cryptocurrency trading and analysis tool",
+      "imageSrc": "https://images.unsplash.com/photo-1631603090989-93f9ef6f9d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1744&q=80",
+      "url": "https://github.com/ItsKingzman/Crypto"
+    },
+    {
+      "id": "4",
+      "title": "Student Tracker 1",
+      "description": "An application designed to help manage and track student-related data",
+      "imageSrc": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+      "url": "https://github.com/ItsKingzman/StudentTracker1"
+    },
+    {
+      "id": "5",
+      "title": "Recipe App",
+      "description": "Search recipes by ingredients, dish names, or categories",
+      "imageSrc": "https://images.unsplash.com/photo-1622003275933-fc87f54913ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "url": "https://github.com/ItsKingzman/recipe-app"
+    },
+    {
+      "id": "6",
+      "title": "Kepler Exoplanet Search",
+      "description": "A comprehensive data analysis project that leverages Python and Jupyter Notebook to sift through NASA's Kepler dataset, ultimately identifying potential habitable exoplanets and defining the characteristics of their host stars",
+      "imageSrc": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "url": "https://github.com/ItsKingzman/Kepler"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Data Analysis",
+      "description": "I specialize in interpreting complex datasets to help businesses make data-driven decisions, identify trends, and optimize performance."
+    },
+    {
+      "id": "2",
+      "title": "Software Development",
+      "description": "I create custom software solutions tailored to your business needs, employing the latest technologies and development methodologies for efficiency and scalability."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "I provide bespoke web design services, creating visually appealing and user-friendly websites that enhance your online presence and drive customer engagement."
+    },
+    {
+      "id": "4",
+      "title": "QA Testing",
+      "description": "I offer comprehensive QA testing services to ensure software functionality and reliability, employing a variety of testing methodologies to identify and resolve potential issues."
+    }
+  ],
+  "aboutpara": "Throughout my academic and personal projects, I have cultivated a strong foundation in software development, with experience in Java, C#, C++, Python, Golang, R, Ruby, JavaScript, TypeScript, HTML, CSS/SCSS, Angular, React, Svelte, Ruby on Rails, .NET, Blazor, SQL, Chat-GPT, Figma, Jupyter Notebook & Git. I am eager to apply this knowledge in a professional setting, where I can continue to learn and grow as a developer. I am committed to creating user-friendly and empowering software to deliver high-quality solutions. What sets me apart from other candidates is my deep understanding that most problems are essentially people problems. I believe that great software is built by developers who feel happy, respected, and focused, and in turn, the software they create empowers users and fosters a positive experience. As a Software Developer, I am dedicated to creating an inclusive and supportive environment for my fellow team members and developing software that truly benefits end-users. In addition to my technical skills, my strong interpersonal skills and empathetic approach to problem-solving will make me a valuable asset to your team. I am excited to contribute to the development of software solutions that not only meet clients' needs but also help to create a better world by addressing underlying people-centered issues.",
+  "resume": {
+    "tagline": "I'm a software engineer, data analyst, and prompt engineer",
+    "description": "Eager and skilled Software Developer with a strong foundation in computer science, seeking an opportunity to contribute to innovative projects and expand my skillset in a professional environment. I'll start wherever I have to start. I'll park cars if I have to. The biggest part of judging character is knowing yourself, and I know this: I can do this job, I can. Give me a chance, I won't let you down.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2013 - October 2016",
+        "type": "Full Time",
+        "position": "Cryptocurrency Mining Technician at King&King Enterprises LLC",
+        "bullets": [
+          "Assisted in hosting client mining machines and ensured proper functionality",
+          "Managed weekly Bitcoin disbursements to clients and provided financial reports",
+          "Monitored key performance indicators such as ROI, NPV, and net profit"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "April 2017 - December 2017",
+        "type": "Full Time",
+        "position": "IT Technician at Montgomery County Commission",
+        "bullets": [
+          "Responsibilities included the installation of computer networks, cable lines, and phone lines",
+          "Troubleshooting of all information technology within 27 buildings owned by Montgomery County Commission"
+        ]
+      }
+    ],
+    "education": {
+      "universityName": "The University of Montevallo",
+      "universityDate": "2019-2022",
+      "universityPara": "Dean's List | President's List | GPA: 3.5 | Member, University of Montevallo Computer Science Club"
+    },
+    "languages": ["Java", "C#", ".NET", "Python", "Golang", "R", "Ruby", "JavaScript", "TypeScript"],
+    "frameworks": ["React", "Angular", "NodeJs"],
+    "others": ["Svelte", "Figma", "SQL", "HTML", "CSS/SCSS", "Git", "WorsPress", "Jupyter Notebook"]
+  }
+}
