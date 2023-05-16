@@ -13,7 +13,7 @@ import data from "../data/portfolio.json";
 
 const Resume = () => {
   const router = useRouter();
-  const { theme, setTheme } = useTheme();
+  const theme = useTheme();
   const [mount, setMount] = useState(false);
 
   useEffect(() => {
@@ -22,11 +22,6 @@ const Resume = () => {
       router.push("/");
     }
   }, []);
-
-  useEffect(() => { // Add this useEffect
-    setMount(false);
-    setMount(true);
-  }, [theme]);
   return (
     <>
       {process.env.NODE_ENV === "development" && (
