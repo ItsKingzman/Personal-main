@@ -97,23 +97,67 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "April 2013 - October 2016",
+        "dates": "Aug 2017 - Feb 2023",
         "type": "Full Time",
-        "position": "Cryptocurrency Mining Technician at King&King Enterprises LLC",
+        "position": "Project Management Software",
         "bullets": [
-          "Assisted in hosting client mining machines and ensured proper functionality",
-          "Managed weekly Bitcoin disbursements to clients and provided financial reports",
-          "Monitored key performance indicators such as ROI, NPV, and net profit"
+          "State Examiners of Accounts of Alabama (SE)",
+          "Developed a dual-purpose application using .Net Core 3.0, CouchDB, OAuth2.0, Angular, Typescript, and SASS",
+          "Created separate administration and client modules to streamline user management, training, pay period/leave data, reference data, report generation, and audit management"
         ]
       },
       {
         "id": "2",
-        "dates": "April 2017 - December 2017",
+        "dates": "Aug 2017 - Feb 2023",
         "type": "Full Time",
-        "position": "IT Technician at Montgomery County Commission",
+        "position": "Youthful Offender Management System",
         "bullets": [
-          "Responsibilities included the installation of computer networks, cable lines, and phone lines",
-          "Troubleshooting of all information technology within 27 buildings owned by Montgomery County Commission"
+          "Youth Services Institute (YSI)",
+          "Created a system to manage youthful offender cases, utilizing .Net Core 3.1, Angular, Typescript, MySQL, and OAuth2.0",
+          "Developed specialized questionnaires for therapists to evaluate the state of the youth",
+          "Incorporated an Entity Attribute Value (EAV) Model to handle the volume and nature of case forms"
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "Aug 2017 - Feb 2023",
+        "type": "Full Time",
+        "position": "DHR Food Assistance",
+        "bullets": [
+          "Took up maintenance, deployment, and POC for DHR's food assistance application, initially developed in 2012 using .NET Framework 3.5 and MVC",
+          "Integrated LexisNexis Identity Authentication into the application process to enhance security"
+        ]
+      },
+      {
+        "id": "4",
+        "dates": "Aug 2017 - Feb 2023",
+        "type": "Full Time",
+        "position": "FNRA (Freedom Narcan Reporting App)",
+        "bullets": [
+          "Designed and architected a mobile PWA web app using .Net Core 3.1, MySQL, OAuth 2.0, Angular, Typescript, and SASS",
+          "The application allowed first responders to report their location and fill out a form based on their encounter"
+        ]
+      },
+      {
+        "id": "5",
+        "dates": "Aug 2017 - Feb 2023",
+        "type": "Full Time",
+        "position": "DNA Tracker",
+        "bullets": [
+          "Alabama Dept. of Forensic Science (ADFS)",
+          "Developed a comprehensive DNA tracking system using .Net Framework 4.7, MySQL, Custom Auth, Angular, Typescript, and SASS",
+          "The application is currently used by all Alabama Collection Agencies and Forensic Science labs for efficient DNA sample tracking"
+        ]
+      },
+      {
+        "id": "6",
+        "dates": "Aug 2017 - Feb 2023",
+        "type": "Full Time",
+        "position": "Supreme Court Document Management Software",
+        "bullets": [
+          "Alabama Court Information System (ACIS)",
+          "Developed a system to manage court documents using .Net Framework 4.5, MySQL, React, and Redux",
+          "Enabled court employees and lawyers to view needed actions, purchase documents, and monitor account standing through a custom interface"
         ]
       }
     ],
