@@ -8,36 +8,9 @@
 - Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
 - Dark Mode
 
-
-### Sections
-
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
-
-
-### How To Use
-
-- Clone this repo
-- run `yarn`
-- `yarn dev`
-
-
-### How To Deploy -
-
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
-
 Quickes way to deploy this repo -
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://connerkingportfolio.netlify.app)
-
 
 ### Tech Stack Used -
 - Next.js
