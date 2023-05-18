@@ -99,17 +99,6 @@
         "id": "1",
         "dates": "Aug 2017 - Feb 2023",
         "type": "Full Time",
-        "position": "Project Management Software",
-        "bullets": [
-          "State Examiners of Accounts of Alabama (SE)",
-          "Developed a dual-purpose application using .Net Core 3.0, CouchDB, OAuth2.0, Angular, Typescript, and SASS",
-          "Created separate administration and client modules to streamline user management, training, pay period/leave data, reference data, report generation, and audit management"
-        ]
-      },
-      {
-        "id": "2",
-        "dates": "Aug 2017 - Feb 2023",
-        "type": "Full Time",
         "position": "Youthful Offender Management System",
         "bullets": [
           "Youth Services Institute (YSI)",
@@ -119,27 +108,7 @@
         ]
       },
       {
-        "id": "3",
-        "dates": "Aug 2017 - Feb 2023",
-        "type": "Full Time",
-        "position": "DHR Food Assistance",
-        "bullets": [
-          "Took up maintenance, deployment, and POC for DHR's food assistance application, initially developed in 2012 using .NET Framework 3.5 and MVC",
-          "Integrated LexisNexis Identity Authentication into the application process to enhance security"
-        ]
-      },
-      {
-        "id": "4",
-        "dates": "Aug 2017 - Feb 2023",
-        "type": "Full Time",
-        "position": "FNRA (Freedom Narcan Reporting App)",
-        "bullets": [
-          "Designed and architected a mobile PWA web app using .Net Core 3.1, MySQL, OAuth 2.0, Angular, Typescript, and SASS",
-          "The application allowed first responders to report their location and fill out a form based on their encounter"
-        ]
-      },
-      {
-        "id": "5",
+        "id": "2",
         "dates": "Aug 2017 - Feb 2023",
         "type": "Full Time",
         "position": "DNA Tracker",
@@ -150,7 +119,7 @@
         ]
       },
       {
-        "id": "6",
+        "id": "3",
         "dates": "Aug 2017 - Feb 2023",
         "type": "Full Time",
         "position": "Supreme Court Document Management Software",
