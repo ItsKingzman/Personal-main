@@ -97,29 +97,13 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "May 2022 – January 2023",
+        "dates": "April 2013 – October 2016",
         "type": "Full Time",
-        "position": "FNRA (Freedom Narcan Reporting App)",
+        "position": "Cryptocurrency Mining Technician at King&King Enterprises LLC",
         "bullets": [
-          "Freedom Narcan Reporting Tool",
-          ".Net Core 3.1, MySQL, OAuth 2.0, Angular, Typescript, SASS",
-          "Mobile PWA Web App",
-          "First Responders can report their location using Google's Geocoding reverse address lookup",
-          "First Responders fill out a form based on their encounter/if they used Narcan",
-          "Treatment Users also fill out small form on mobile",
-          "Administrative users can view all submissions and download a DB dump",
-          "Designed and architected the entire app"
-        ]
-      },
-      {
-        "id": "2",
-        "dates": "May 2022 – January 2023",
-        "type": "Full Time",
-        "position": "DNA Tracker",
-        "bullets": [
-          "Alabama Dept. of Forensic Science (ADFS)",
-          "Developed a comprehensive DNA tracking system using .Net Framework 4.7, MySQL, Custom Auth, Angular, Typescript, and SASS",
-          "The application is currently used by all Alabama Collection Agencies and Forensic Science labs for efficient DNA sample tracking"
+          "Managed and maintained client cryptocurrency mining machines, ensuring optimal performance and uptime.",
+          "Handled weekly Bitcoin disbursements to clients, backed by comprehensive financial reporting.",
+          "Continuously monitored key performance indicators, such as ROI, NPV, and net profit, to guide strategic decision-making."
         ]
       }
     ],
