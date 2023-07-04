@@ -96,6 +96,17 @@
     "description": "Innovative Software Developer with a robust academic foundation in computer informatics and hands-on experience in full-stack development, cryptocurrency technologies, and database management. Known for my problem-solving skills, ability to tackle complex challenges, and commitment to team success. I'll start wherever I have to start. I'll park cars if I have to. The biggest part of judging character is knowing yourself, and I know this: I can do this job, I can. Give me a chance, I won't let you down.",
     "experiences": [
       {
+        "id": "2",
+        "dates": "April 2013 – Present",
+        "type": "Full Time",
+        "position": "Self-Employed as Property Manager",
+        "bullets": [
+          "Managed rental properties, including handling repairs, collecting rents, and overseeing lease agreements.",
+          "Responsible for property landscaping and maintenance.",
+          "Acquired and maintained insurance policies and maintenance contracts to ensure compliance and property protection."
+        ]
+      },
+      {
         "id": "1",
         "dates": "April 2013 – October 2016",
         "type": "Full Time",
