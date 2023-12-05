@@ -133,7 +133,7 @@ const Resume = () => {
                   )}
                 </div>
               </div>
-              <div className="mt-2">
+              <div className="mt-2 text-center">
                 <Socials />
               </div>
             </div>
