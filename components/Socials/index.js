@@ -32,7 +32,7 @@ const socials = [
     id: "5",
     title: "KingzmanCo",
     link: "https://kingzmanco.com/",
-    iconName: "images/kngz-logo.png"
+    iconName: "kngz-logo.png"
   }
 ];
 
