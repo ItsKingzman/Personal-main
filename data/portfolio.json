@@ -2,7 +2,7 @@
   "name": "Conner King",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Conner King",
-  "headerTaglineThree": "Designer & devloper",
+  "headerTaglineThree": "Graphic Designer & Software Devloper",
   "headerTaglineFour": " based in Birmingham, Alabama",
   "showBlog": true,
   "showResume": true,
@@ -21,47 +21,54 @@
     {
       "id": "3",
       "title": "Personal Website",
-      "link": "https://connerking.com"
+      "link": "https://kingzmanco.com/"
     }
   ],
   "projects": [
     {
       "id": "1",
+      "title": "KingzmanCo",
+      "description": "Online store offering a variety of custom merchandise",
+      "imageSrc": "https://kingzmanco.com/cdn/shop/files/crown5.png?v=1694811988&width=135",
+      "url": "https://kingzmanco.com/"
+    },
+    {
+      "id": "2",
       "title": "OpenAI Pet Name Generator",
       "description": "Creative pet name generation application",
       "imageSrc": "https://images.unsplash.com/photo-1681062964769-8029d6831f04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2776&q=80",
       "url": "https://github.com/ItsKingzman/openAI_Pet_Name_Generator"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "ChatGPT Trading",
       "description": "Conversational AI for trading and investment advice using OpenAI's GPT-4",
       "imageSrc": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "https://github.com/ItsKingzman/chatGPT-trading"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Crypto",
       "description": "Cryptocurrency trading and analysis tool",
       "imageSrc": "https://images.unsplash.com/photo-1631603090989-93f9ef6f9d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1744&q=80",
       "url": "https://github.com/ItsKingzman/Crypto"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Student Tracker 1",
       "description": "An application designed to help manage and track student-related data",
       "imageSrc": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
       "url": "https://github.com/ItsKingzman/StudentTracker1"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "Recipe App",
       "description": "Search recipes by ingredients, dish names, or categories",
       "imageSrc": "https://images.unsplash.com/photo-1622003275933-fc87f54913ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "https://github.com/ItsKingzman/recipe-app"
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "Kepler Exoplanet Search",
       "description": "A comprehensive data analysis project that leverages Python and Jupyter Notebook to sift through NASA's Kepler dataset, ultimately identifying potential habitable exoplanets and defining the characteristics of their host stars",
       "imageSrc": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
@@ -71,30 +78,48 @@
   "services": [
     {
       "id": "1",
+      "title": "Graphic Design",
+      "description": "Leveraging state-of-the-art tools like DALL•E 3, Adobe Photoshop, Adobe Illustrator, Canva, Midjourney, and Procreate, I offer premium graphic design services. My expertise extends to crafting custom merchandise such as shirts, hoodies, doormats, notebooks, bookmarks, and stickers. My approach combines creativity with cutting-edge technology, ensuring unique, visually striking designs that stand out in today's dynamic market."
+    },
+    {
+      "id": "2",
       "title": "Data Analysis",
       "description": "I specialize in interpreting complex datasets to help businesses make data-driven decisions, identify trends, and optimize performance."
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Software Development",
       "description": "I create custom software solutions tailored to your business needs, employing the latest technologies and development methodologies for efficiency and scalability."
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Web Design",
       "description": "I provide bespoke web design services, creating visually appealing and user-friendly websites that enhance your online presence and drive customer engagement."
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "QA Testing",
       "description": "I offer comprehensive QA testing services to ensure software functionality and reliability, employing a variety of testing methodologies to identify and resolve potential issues."
     }
   ],
-  "aboutpara": "Throughout my academic and personal projects, I have cultivated a strong foundation in software development, with experience in Java, C#, C++, Python, Golang, R, Ruby, JavaScript, TypeScript, HTML, CSS/SCSS, Angular, React, Svelte, Ruby on Rails, .NET, Blazor, SQL, Chat-GPT, Figma, Jupyter Notebook & Git. I am eager to apply this knowledge in a professional setting, where I can continue to learn and grow as a developer. I am committed to creating user-friendly and empowering software to deliver high-quality solutions. What sets me apart from other candidates is my deep understanding that most problems are essentially people problems. I believe that great software is built by developers who feel happy, respected, and focused, and in turn, the software they create empowers users and fosters a positive experience. As a Software Developer, I am dedicated to creating an inclusive and supportive environment for my fellow team members and developing software that truly benefits end-users. In addition to my technical skills, my strong interpersonal skills and empathetic approach to problem-solving will make me a valuable asset to your team. I am excited to contribute to the development of software solutions that not only meet clients' needs but also help to create a better world. I believe in starting wherever I have to, in order to prove my worth and dedication to my work. I assure you that if given an opportunity, I will not let you down.",
+  "aboutpara": "My extensive knowledge in graphic design, paired with a diverse skill set that ranges from programming to cryptocurrency technologies, allows me to approach challenges holistically, fostering creativity and innovation in every project. During my academic journey at the University of Montevallo, not only did I earn accolades such as making the Dean's List and the President's List, but I also delved deep into astrophysics data analysis. By leveraging Python, NumPy, and Jupyter Notebook, I successfully identified 17 habitable exoplanets from NASA's expansive Kepler dataset. This endeavor showcases my analytical capabilities, curiosity, and ability to extract meaningful insights from vast data pools. My entrepreneurial spirit is evident through my ventures like KingzmanCo, where I marry the worlds of graphic design and technology to offer cutting-edge products on Etsy. Leading this endeavor has honed my skills in trend analysis, customer engagement, and business management. Furthermore, my role at King&King Enterprises gave me a front-row seat to the world of cryptocurrency, where I ensured the seamless operation of mining machines and managed financial disbursements with precision. What truly sets me apart is my proficiency in a wide array of programming languages and tools. From developing a Go-Buffalo-based URL shortener to creating user-centric applications using Blazor and React, I constantly challenge myself to stay ahead of the curve. I take pride in my ability to bring ideas to life, and my projects, such as the real-time weather app or the comprehensive expense tracker, are a testament to this passion and capability. Joining your company is not just an opportunity for career advancement, but a chance to contribute to a forward-thinking team, bringing in fresh perspectives and innovative solutions. I believe my diverse experience, hands-on approach, and unwavering commitment to excellence make me a unique and valuable asset to your organization.",
   "resume": {
-    "tagline": "I'm a software developer, data analyst, and prompt engineer",
-    "description": "Innovative Software Developer with a robust academic foundation in computer informatics and hands-on experience in full-stack development, cryptocurrency technologies, and database management. Known for my problem-solving skills, ability to tackle complex challenges, and commitment to team success. I'll start wherever I have to start. I'll park cars if I have to. The biggest part of judging character is knowing yourself, and I know this: I can do this job, I can. Give me a chance, I won't let you down.",
+    "tagline": "I'm a graphic designer, software developer, data analyst, and prompt engineer",
+    "description": "Innovative Graphic Designer and Software Developer with a robust academic foundation in computer informatics and hands-on experience in full-stack development, cryptocurrency technologies, database management, as well as graphic design. Known for my problem-solving skills, ability to tackle complex challenges, and commitment to team success. I'll start wherever I have to start. I'll park cars if I have to. The biggest part of judging character is knowing yourself, and I know this: I can do this job, I can. Give me a chance, I won't let you down.",
     "experiences": [
+      {
+        "id": "1",
+        "dates": "June 2023 – Present",
+        "type": "Full Time",
+        "position": "KingzmanCo",
+        "bullets": [
+          "A diverse range of products including graphic tees, hoodies, doormats, notebooks, and stickers, each with unique designs.",
+          "The website supports multiple languages: English, Spanish, and French.",
+          "Integration with social media platforms like Twitter, Facebook, Pinterest, Instagram, and TikTok.",
+          "Multiple payment options including major credit cards and digital wallets.",
+          "Clear links to the website's refund policy, privacy policy, terms of service, and shipping details."
+        ]
+      },
       {
         "id": "2",
         "dates": "April 2013 – Present",
@@ -107,7 +132,7 @@
         ]
       },
       {
-        "id": "1",
+        "id": "3",
         "dates": "April 2013 – October 2016",
         "type": "Full Time",
         "position": "Cryptocurrency Mining Technician at King&King Enterprises LLC",
@@ -124,6 +149,7 @@
       "universityPara": "Dean's List | President's List | GPA: 3.5 | Member, University of Montevallo Computer Science Club"
     },
     "languages": ["Java", "C#", ".NET", "Python", "Golang", "R", "Ruby", "JavaScript", "TypeScript"],
+    "graphic-design": ["Adobe Illustrator", "Adobe Photoshop", "Canva", "MidJourney", "Procreate"],
     "frameworks": ["React", "Angular", "NodeJs"],
     "others": ["Svelte", "Figma", "SQL", "HTML", "CSS/SCSS", "Git", "WorsPress", "Jupyter Notebook"]
   }
