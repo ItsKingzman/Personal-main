@@ -20,6 +20,16 @@
     },
     {
       "id": "3",
+      "title": "TikTok",
+      "link": "https://www.tiktok.com/@kingzmanco?lang=en"
+    },
+    {
+      "id": "4",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/kingzmanco/"
+    },
+    {
+      "id": "5",
       "title": "Personal Website",
       "link": "https://kingzmanco.com/"
     }

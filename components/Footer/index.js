@@ -17,7 +17,18 @@ const Footer = ({}) => {
               <Button type="primary">Hire</Button>
             </a>
             <div className="mt-10">
-              <Socials />
+            <Socials className="" socials={[
+                {
+                  "id": "3",
+                  "title": "TikTok",
+                  "link": "https://www.tiktok.com/@kingzmanco?lang=en"
+                },
+                {
+                  "id": "4",
+                  "title": "Instagram",
+                  "link": "https://www.instagram.com/kingzmanco/"
+                }
+              ]} />
             </div>
           </div>
         </div>
