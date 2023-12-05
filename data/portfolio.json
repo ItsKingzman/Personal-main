@@ -58,27 +58,20 @@
     },
     {
       "id": "4",
-      "title": "Crypto",
-      "description": "Cryptocurrency trading and analysis tool",
-      "imageSrc": "https://images.unsplash.com/photo-1631603090989-93f9ef6f9d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1744&q=80",
-      "url": "https://github.com/ItsKingzman/Crypto"
-    },
-    {
-      "id": "5",
       "title": "Student Tracker 1",
       "description": "An application designed to help manage and track student-related data",
       "imageSrc": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
       "url": "https://github.com/ItsKingzman/StudentTracker1"
     },
     {
-      "id": "6",
+      "id": "5",
       "title": "Recipe App",
       "description": "Search recipes by ingredients, dish names, or categories",
       "imageSrc": "https://images.unsplash.com/photo-1622003275933-fc87f54913ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "https://github.com/ItsKingzman/recipe-app"
     },
     {
-      "id": "7",
+      "id": "6",
       "title": "Kepler Exoplanet Search",
       "description": "A comprehensive data analysis project that leverages Python and Jupyter Notebook to sift through NASA's Kepler dataset, ultimately identifying potential habitable exoplanets and defining the characteristics of their host stars",
       "imageSrc": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
