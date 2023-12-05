@@ -23,7 +23,7 @@ const Socials = ({ className }) => {
     <div className={`${className} flex flex-wrap mob:flex-nowrap link`}>
       {socials.map((social) => (
         <a key={social.id} href={social.link} target="_blank" rel="noopener noreferrer">
-          <img src={`/images/${social.iconName}`} alt={social.title} />
+          <img src={`/images/${social.iconName}`} alt={social.title} style={{ width: '50px', height: '50px' }} />
         </a>
       ))}
     </div>
