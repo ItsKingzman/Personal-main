@@ -23,21 +23,21 @@ const Button = ({ children, type, onClick, classes }) => {
     );
   }
 
-  return (
-    <button
-      onClick={onClick}
-      type="button"
-      className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 ${
-        theme === "dark"
-          ? "bg-white text-black hover:bg-gray-200" // Black text on white background for dark mode
-          : "bg-black text-white hover:bg-gray-800" // White text on black background for light mode
-      } hover:scale-105 active:scale-100 tablet:first:ml-0 ${
-        data.showCursor && "cursor-none"
-      } ${classes} link`}
-    >
-      {children}
-    </button>
-  );
+  // return (
+  //   <button
+  //     onClick={onClick}
+  //     type="button"
+  //     className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 ${
+  //       theme === "dark"
+  //         ? "bg-white text-black hover:bg-gray-200" // Black text on white background for dark mode
+  //         : "bg-black text-white hover:bg-gray-800" // White text on black background for light mode
+  //     } hover:scale-105 active:scale-100 tablet:first:ml-0 ${
+  //       data.showCursor && "cursor-none"
+  //     } ${classes} link`}
+  //   >
+  //     {children}
+  //   </button>
+  // );
 };
 
 export default Button;
