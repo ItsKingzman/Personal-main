@@ -16,7 +16,7 @@ const Footer = ({}) => {
           </a>
         </div>
       </div>
-      <div className="items-center mt-10">
+      <div className="flex justify-center mt-10">
             <Socials className="" socials={[
                   {
                     id: "1",
