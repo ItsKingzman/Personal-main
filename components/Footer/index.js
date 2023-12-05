@@ -46,7 +46,7 @@ const Footer = ({}) => {
                     id: "5",
                     title: "KingzmanCo",
                     link: "https://kingzmanco.com/",
-                    iconName: "images/kngz-logo.png"
+                    iconName: "kngz-logo.png"
                   }
               ]} />
             </div>
@@ -55,7 +55,7 @@ const Footer = ({}) => {
       </div>
       <h1 className="text-center text-sm font-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
         Made With ❤ by{" "}
-        <Link href="http://www.connerking.com">
+        <Link href="http://www.KingzmanCo.com">
           <a className="underline underline-offset-1">Conner King</a>
         </Link>
       </h1>
