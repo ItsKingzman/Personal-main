@@ -118,15 +118,15 @@ const Resume = () => {
                       </ul>
                     </div>
                   )}
+                  <div className="mt-2">
+                <Socials />
+              </div>
                 </div>
               </div>
             </div>
           </div>
         )}
       </div>
-      <div className="mt-2">
-                <Socials />
-    </div>
     </>
   );
 };
