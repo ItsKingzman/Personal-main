@@ -50,9 +50,6 @@ const Resume = () => {
               <h2 className="w-4/5 text-xl mt-5 opacity-50">
                 {resume.description}
               </h2>
-              <div className="mt-2">
-                <Socials />
-              </div>
               <div className="mt-5">
                 <h1 className="text-2xl text-center underline font-bold">Experience</h1>
 
@@ -127,6 +124,9 @@ const Resume = () => {
           </div>
         )}
       </div>
+      <div className="mt-2">
+                <Socials />
+    </div>
     </>
   );
 };
