@@ -8,12 +8,11 @@ const Footer = ({}) => {
     <>
       <div className="text-center mt-5 laptop:mt-40 p-2 laptop:p-0">
         <div>
-          <h1 className="text-2xl font-bold underline">Contact</h1>
           <div className="mt-10">
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl font-bold">
               HIRE ME TODAY
             </h1>
-            <a href="mailto:your-email@example.com">
+            <a href="mailto:connerk4@gmail.com">
               <Button type="primary">Hire</Button>
             </a>
             <div className="mt-10">
