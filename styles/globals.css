@@ -19,12 +19,12 @@ body {
   top: -30px;
   height: 40px;
   width: 100vw;
-  opacity: 0.5;
+  opacity: 0.7;
   filter: blur(40px);
   background: radial-gradient(
     circle,
-    rgba(10, 186, 181) 0%,
-    rgba(147, 233, 190, 0.8) 100%
+    rgba(10, 186, 181) 50%,
+    rgba(147, 233, 190, 0.8) 50%
   );
 }
 .gradient-circle-bottom {
