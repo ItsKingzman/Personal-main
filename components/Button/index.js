@@ -5,20 +5,18 @@ import data from "../../data/portfolio.json";
 const Button = ({ children, type, onClick, classes }) => {
   const { theme } = useTheme();
 
-  const buttonClass = `text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 hover:scale-105 active:scale-100 tablet:first:ml-0 ${
-    data.showCursor && "cursor-none"
-  } ${classes} link`;
-
   if (type === "primary") {
     return (
       <button
         onClick={onClick}
         type="button"
-        className={`${buttonClass} ${
+        className={`!text-2xl w-52 h-20 tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg ${
           theme === "dark"
-            ? "bg-blue-500 text-white hover:bg-blue-600" // Dark mode: Blue background, white text
-            : "bg-green-300 text-black hover:bg-green-400" // Light mode: Green background, black text
-        }`}
+            ? "bg-blue-500 hover:bg-blue-600 text-white" // White text on blue background for dark mode
+            : "bg-green-300 hover:bg-green-400 text-black" // Black text on green background for light mode
+        } transition-all duration-300 ease-out first:ml-0 hover:scale-105 active:scale-100 link ${
+          data.showCursor && "cursor-none"
+        } ${classes}`}
       >
         {children}
       </button>
@@ -29,11 +27,13 @@ const Button = ({ children, type, onClick, classes }) => {
     <button
       onClick={onClick}
       type="button"
-      className={`${buttonClass} ${
+      className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 ${
         theme === "dark"
-          ? "text-white hover:bg-gray-700" // Dark mode: White text, dark hover background
-          : "text-black hover:bg-gray-200" // Light mode: Black text, light hover background
-      }`}
+          ? "bg-white text-black hover:bg-gray-200" // Black text on white background for dark mode
+          : "bg-black text-white hover:bg-gray-800" // White text on black background for light mode
+      } hover:scale-105 active:scale-100 tablet:first:ml-0 ${
+        data.showCursor && "cursor-none"
+      } ${classes} link`}
     >
       {children}
     </button>
@@ -41,4 +41,3 @@ const Button = ({ children, type, onClick, classes }) => {
 };
 
 export default Button;
-
