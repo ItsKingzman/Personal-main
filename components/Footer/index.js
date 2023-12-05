@@ -21,7 +21,7 @@ const Footer = ({}) => {
         <Link href="http://www.KingzmanCo.com">
           <a className="underline underline-offset-1">Conner King</a>
         </Link>
-        <div className="mt-10">
+        <div className="items-center mt-10">
             <Socials className="" socials={[
                   {
                     id: "1",
