@@ -16,7 +16,6 @@ const Footer = ({}) => {
           </a>
         </div>
       </div>
-      <h1 className="text-center text-sm font-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
       <div className="items-center mt-10">
             <Socials className="" socials={[
                   {
@@ -51,6 +50,7 @@ const Footer = ({}) => {
                   }
               ]} />
             </div>
+      <h1 className="text-center text-sm font-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
         Made With ❤ by{" "}
         <Link href="http://www.KingzmanCo.com">
           <a className="underline underline-offset-1">Conner King</a>
