@@ -152,8 +152,8 @@
       "universityPara": "Dean's List | President's List | GPA: 3.5 | Member, University of Montevallo Computer Science Club"
     },
     "languages": ["Java", "C#", ".NET", "Python", "Golang", "R", "Ruby", "JavaScript", "TypeScript"],
-    "graphic_design": ["Adobe Illustrator", "Adobe Photoshop", "Canva", "MidJourney", "Procreate"],
+    "graphic_design": ["Adobe Illustrator", "Adobe Photoshop", "DALL•E","Canva", "MidJourney", "Procreate"],
     "frameworks": ["React", "Angular", "NodeJs"],
-    "others": ["Svelte", "Figma", "SQL", "HTML", "CSS/SCSS", "Git", "WorsPress", "Jupyter Notebook"]
+    "others": ["Svelte", "Figma", "SQL", "HTML", "CSS/SCSS", "Git", "WordPress", "Jupyter Notebook"]
   }
 }
