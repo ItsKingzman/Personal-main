@@ -5,39 +5,22 @@ import data from "../../data/portfolio.json";
 const Button = ({ children, type, onClick, classes }) => {
   const { theme } = useTheme();
 
-  if (type === "primary") {
-    return (
-      <button
-        onClick={onClick}
-        type="button"
-        className={`!text-2xl w-52 h-20 tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg ${
-          theme === "dark"
-            ? "bg-blue-500 hover:bg-blue-600 text-white" // White text on blue background for dark mode
-            : "bg-green-300 hover:bg-green-400 text-black" // Black text on green background for light mode
-        } transition-all duration-300 ease-out first:ml-0 hover:scale-105 active:scale-100 link ${
-          data.showCursor && "cursor-none"
-        } ${classes}`}
-      >
-        {children}
-      </button>
-    );
-  }
+  // Common style for both light and dark modes
+  const commonStyle = "text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 hover:scale-105 active:scale-100 tablet:first:ml-0 link";
 
-  // return (
-  //   <button
-  //     onClick={onClick}
-  //     type="button"
-  //     className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg flex items-center transition-all ease-out duration-300 ${
-  //       theme === "dark"
-  //         ? "bg-white text-black hover:bg-gray-200" // Black text on white background for dark mode
-  //         : "bg-black text-white hover:bg-gray-800" // White text on black background for light mode
-  //     } hover:scale-105 active:scale-100 tablet:first:ml-0 ${
-  //       data.showCursor && "cursor-none"
-  //     } ${classes} link`}
-  //   >
-  //     {children}
-  //   </button>
-  // );
+  return (
+    <button
+      onClick={onClick}
+      type="button"
+      className={`${commonStyle} ${
+        theme === "dark"
+          ? "bg-gray-700 text-white hover:bg-gray-800" // Style for dark mode
+          : "bg-gray-200 text-black hover:bg-gray-300" // Style for light mode
+      } ${classes}`}
+    >
+      {children}
+    </button>
+  );
 };
 
 export default Button;
