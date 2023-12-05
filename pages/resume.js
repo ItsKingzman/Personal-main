@@ -134,7 +134,7 @@ const Resume = () => {
                 </div>
               </div>
               <h1 className="text-2xl text-center underline font-bold">Socials</h1>
-              <div className="mt-2 items-center">
+              <div className="mt-10 w-full flex flex-col items-center">
                 <Socials />
               </div>
             </div>
