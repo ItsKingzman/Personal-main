@@ -12,13 +12,10 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl font-bold">
               HIRE ME TODAY
             </h1>
-            <div className="flex justify-center mt-10"> {/* Center the Hire button */}
-                <a href="mailto:your-email@example.com">
-                  <Button type="primary">Hire</Button>
-                </a>
-              </div>
-            </div>
-            <div className="text-centermt-10"> {/* Place socials near the footer text */}
+            <a href="mailto:connerk4@gmail.com">
+              <Button type="primary">Hire</Button>
+            </a>
+            <div className="mt-10">
             <Socials className="" socials={[
                   {
                     id: "1",
