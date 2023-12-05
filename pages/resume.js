@@ -106,6 +106,19 @@ const Resume = () => {
                     </div>
                   )}
 
+                  {resume.graphic_design && (
+                    <div className="mt-2 mob:mt-5">
+                      <h2 className="text-lg underline">Graphic Design</h2>
+                      <ul className="list-disc">
+                        {resume.others.map((other, index) => (
+                          <li key={index} className="ml-5 py-2">
+                            {other}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
                   {resume.others && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg underline">Others</h2>
@@ -118,10 +131,10 @@ const Resume = () => {
                       </ul>
                     </div>
                   )}
-                  <div className="mt-2">
-                <Socials />
-              </div>
                 </div>
+              </div>
+              <div className="mt-2">
+                <Socials />
               </div>
             </div>
           </div>
