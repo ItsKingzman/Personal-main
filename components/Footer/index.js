@@ -18,16 +18,36 @@ const Footer = ({}) => {
             </a>
             <div className="mt-10">
             <Socials className="" socials={[
-                {
-                  "id": "3",
-                  "title": "TikTok",
-                  "link": "https://www.tiktok.com/@kingzmanco?lang=en"
-                },
-                {
-                  "id": "4",
-                  "title": "Instagram",
-                  "link": "https://www.instagram.com/kingzmanco/"
-                }
+                  {
+                    id: "1",
+                    title: "Github",
+                    link: "https://github.com/ItsKingzman",
+                    iconName: "github.png"
+                  },
+                  {
+                    id: "2",
+                    title: "LinkedIn",
+                    link: "https://www.linkedin.com/in/conner-king-3b8949114/",
+                    iconName: "linkedin.png"
+                  },
+                  {
+                    id: "3",
+                    title: "TikTok",
+                    link: "https://www.tiktok.com/@kingzmanco?lang=en",
+                    iconName: "tiktok.png"
+                  },
+                  {
+                    id: "4",
+                    title: "Instagram",
+                    link: "https://www.instagram.com/kingzmanco/",
+                    iconName: "Instagram_icon.png"
+                  },
+                  {
+                    id: "5",
+                    title: "KingzmanCo",
+                    link: "https://kingzmanco.com/",
+                    iconName: "images/kngz-logo.png"
+                  }
               ]} />
             </div>
           </div>
