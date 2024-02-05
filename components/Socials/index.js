@@ -13,7 +13,7 @@ const socials = [
   {
     id: "2",
     title: "LinkedIn",
-    link: "https://www.linkedin.com/in/conner-king-3b8949114/",
+    link: "https://www.linkedin.com/in/Itskingzman",
     iconName: "linkedin.png"
   },
   {
