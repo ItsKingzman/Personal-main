@@ -80,39 +80,39 @@ const Resume = () => {
               <div className="mt-5">
                 <h1 className="text-2xl text-center underline font-bold">Skills</h1>
                 <div className="flex mob:flex-col desktop:flex-row justify-between">
-                  {resume.languages && (
+                  {resume.Expert && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg underline">Expert</h2>
                       <ul className="list-disc">
-                        {resume.languages.map((language, index) => (
+                        {resume.Expert.map((Expert, index) => (
                           <li key={index} className="ml-5 py-2">
-                            {language}
+                            {Expert}
                           </li>
                         ))}
                       </ul>
                     </div>
                   )}
 
-                  {resume.frameworks && (
+                  {resume.Proficient && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg underline">Proficient</h2>
                       <ul className="list-disc">
-                        {resume.frameworks.map((framework, index) => (
+                        {resume.Proficient.map((Proficient, index) => (
                           <li key={index} className="ml-5 py-2">
-                            {framework}
+                            {Proficient}
                           </li>
                         ))}
                       </ul>
                     </div>
                   )}
 
-                  {resume.graphic_design && (
+                  {resume.Working_Knowledge && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg underline">Working Knowledge</h2>
                       <ul className="list-disc">
-                        {resume.others.map((other, index) => (
+                        {resume.Working_Knowledge.map((Working_Knowledge, index) => (
                           <li key={index} className="ml-5 py-2">
-                            {other}
+                            {Working_Knowledge}
                           </li>
                         ))}
                       </ul>

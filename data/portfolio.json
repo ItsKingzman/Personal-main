@@ -178,6 +178,6 @@
     },
     "Expert": ["Canva", "Procreate", "Adobe Creative Suite", "Adobe Photoshop", "Adobe In-Design", "Adobe Illustrator", "Adobe Firefly", "Canva", "Chat-GPT", "MidJourney", "Wordpress", "Shopify", "Printify", "Etsy", "HTML", "R Programming Language "],
     "Proficient": ["Social Media Marketing", "Digital Marketing", "Online Marketing", "Brand Development", "Brand Management", "Figma", "CSS/SCSS", "Angular", "React", "Svelte", "Python", "Golang", "JavaScript", "TypeScript", "SQL", "Jupyter Notebook"],
-    "Working Knowledge": ["C#", "Ruby on Rails", ".NET", "Blazor", "Ruby", "Java"]
+    "Working_Knowledge": ["C#", "Ruby on Rails", ".NET", "Blazor", "Ruby", "Java"]
   }
 }
