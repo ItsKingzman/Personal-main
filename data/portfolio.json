@@ -94,28 +94,38 @@
     {
       "id": "2",
       "title": "Data Analysis",
-      "description": "I specialize in interpreting complex datasets to help businesses make data-driven decisions, identify trends, and optimize performance."
+      "description": "Specialize in interpreting complex datasets to help businesses make data-driven decisions, identify trends, and optimize performance."
     },
     {
       "id": "3",
       "title": "Software Development",
-      "description": "I create custom software solutions tailored to your business needs, employing the latest technologies and development methodologies for efficiency and scalability."
+      "description": "Create custom software solutions tailored to your business needs, employing the latest technologies and development methodologies for efficiency and scalability."
     },
     {
       "id": "4",
       "title": "Web Design",
-      "description": "I provide bespoke web design services, creating visually appealing and user-friendly websites that enhance your online presence and drive customer engagement."
+      "description": "Provide bespoke web design services, creating visually appealing and user-friendly websites that enhance your online presence and drive customer engagement."
     },
     {
       "id": "5",
-      "title": "QA Testing",
-      "description": "I offer comprehensive QA testing services to ensure software functionality and reliability, employing a variety of testing methodologies to identify and resolve potential issues."
+      "title": "Brand Design",
+      "description": "Craft visual identities that embody and elevate your brand's essence."
+    },
+    {
+      "id": "6",
+      "title": "Brand Marketing",
+      "description": "Srategizing to build a strong, recognizable brand that connects with your audience."
+    },
+    {
+      "id": "7",
+      "title": "Advertising",
+      "description": "Craft targeted ad campaigns that resonate with and engage your audience."
     }
   ],
   "aboutpara": "My extensive knowledge in graphic design, paired with a diverse skill set that ranges from programming to cryptocurrency technologies, allows me to approach challenges holistically, fostering creativity and innovation in every project. During my academic journey at the University of Montevallo, not only did I earn accolades such as making the Dean's List and the President's List, but I also delved deep into astrophysics data analysis. By leveraging Python, NumPy, and Jupyter Notebook, I successfully identified 17 habitable exoplanets from NASA's expansive Kepler dataset. This endeavor showcases my analytical capabilities, curiosity, and ability to extract meaningful insights from vast data pools. My entrepreneurial spirit is evident through my ventures like KingzmanCo, where I marry the worlds of graphic design and technology to offer cutting-edge products. Leading this endeavor has honed my skills in trend analysis, customer engagement, and business management. Furthermore, my role at King&King Enterprises gave me a front-row seat to the world of cryptocurrency, where I ensured the seamless operation of mining machines and managed financial disbursements with precision. What truly sets me apart is my proficiency in a wide array of programming languages and tools. From developing a Go-Buffalo-based URL shortener to creating user-centric applications using Blazor and React, I constantly challenge myself to stay ahead of the curve. I take pride in my ability to bring ideas to life, and my projects, such as the real-time weather app or the comprehensive expense tracker, are a testament to this passion and capability. Joining your company is not just an opportunity for career advancement, but a chance to contribute to a forward-thinking team, bringing in fresh perspectives and innovative solutions. I believe my diverse experience, hands-on approach, and unwavering commitment to excellence make me a unique and valuable asset to your organization.",
   "resume": {
-    "tagline": "I'm a graphic designer, software developer, data analyst, and prompt engineer",
-    "description": "Innovative Graphic Designer with a robust academic foundation in computer informatics and hands-on experience in graphic design, full-stack development, cryptocurrency technologies, as well asdatabase management. Known for my problem-solving skills, ability to tackle complex challenges, and commitment to team success. I'll start wherever I have to start. I'll park cars if I have to. The biggest part of judging character is knowing yourself, and I know this: I can do this job, I can. Give me a chance, I won't let you down.",
+    "tagline": "Graphic Designer",
+    "description": "At heart, I’m a problem-solver, innovator, and nurturer, passionate about turning challenges into opportunities and making a meaningful impact. My journey has taught me that the essence of problem-solving lies in understanding and valuing human experiences. I believe in fostering environments where creativity flourishes, collaboration is key, and everyone feels valued. My mission is to blend technology and empathy to craft solutions that not only solve problems but also enrich lives, advocating for a world where technology empowers and respects all individuals.",
     "experiences": [
       {
         "id": "1",
